@@ -1,0 +1,29 @@
+body {
+    background: tomato;
+    font-size: 16px;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  section {
+    background: mediumpurple;
+  }
+
+  div {
+    background: palegoldenrod;
+    padding: 16px 32px;
+    margin: 20px;
+    border: 80x solid orchid;
+  }
+
+  p {
+    background-color: papayawhip;
+    color: lightgray;
+  }
+
+  strong {
+    margin: 50px;
+  }
